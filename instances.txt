@@ -1,4 +1,4 @@
 [
-  "https://inv.nadeko.net/",
-  "https://invidious.qwik.space/",
+"https://invidious.qwik.space/",
+"https://inv.nadeko.net/",
 ]
