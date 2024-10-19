@@ -12,4 +12,5 @@
 "https://invidious.nietzospannend.nl/",
 "https://youtube.lurkmore.com/",
 "https://youtube.alt.tyil.nl/",
+"https://materialious.nadeko.net",
 ]
