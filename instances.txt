@@ -1,4 +1,6 @@
 [
 "https://invidious.qwik.space/",
 "https://inv.nadeko.net/",
+"https://youtube.privacyplz.org/",
+"https://yt.yoc.ovh/",
 ]
